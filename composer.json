@@ -1,0 +1,15 @@
+{
+    "name": "danielphp/calculator",
+    "autoload": {
+        "psr-4": {
+            "Danielphp\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanielMabadeje",
+            "email": "mabadejedaniel1@gmail.com"
+        }
+    ],
+    "require": {}
+}
